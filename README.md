@@ -1,2 +1,0 @@
-# GlitcherSpectrum
-Unity Shader Glitch
